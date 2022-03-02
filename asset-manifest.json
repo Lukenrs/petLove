@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/petLove/static/css/main.d1bf8a20.css",
+    "main.js": "/petLove/static/js/main.2c9bd0dc.js",
+    "static/js/787.b27dd024.chunk.js": "/petLove/static/js/787.b27dd024.chunk.js",
+    "static/media/pets.png": "/petLove/static/media/pets.23741fc9c8bd7cea7449.png",
+    "index.html": "/petLove/index.html",
+    "main.d1bf8a20.css.map": "/petLove/static/css/main.d1bf8a20.css.map",
+    "main.2c9bd0dc.js.map": "/petLove/static/js/main.2c9bd0dc.js.map",
+    "787.b27dd024.chunk.js.map": "/petLove/static/js/787.b27dd024.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1bf8a20.css",
+    "static/js/main.2c9bd0dc.js"
+  ]
+}
