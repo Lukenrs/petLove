@@ -1,0 +1,117 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  list-style: none;
+}
+html{
+  background-color: #F2F2F2;
+}
+.top{
+  width: 100%;
+  height: 15vh;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: centers;
+}
+.logo{
+  width: 50%;
+  height: 100%;
+  background-color:#5274D9;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  color:white;
+}
+.top-menu{
+  
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nav-list{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.nav-list li{
+  font-size:1.5vw;
+  text-transform: uppercase;
+}
+.nav-list li a{
+  text-decoration: none;
+  color:#5274D9;
+}
+
+.about{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about-content{
+  width: 80%;
+  height: 50%;
+  display: flex;
+
+  
+}
+.about-text{
+  width: 40vw;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+
+}
+.about-title{
+  color:#5274D9;
+  align-self: center;
+  margin-bottom: 2.5vh;
+  font-size:2.5vw;
+  text-align: justify;
+  text-transform: uppercase;
+}
+.about-paragraph{
+  font-size: 1.2vw;
+  margin-bottom:2.2vh;
+  text-align: justify;
+}
+
+.buttons{
+  display: flex;
+  justify-content: center;
+
+}
+.button-about{
+  border:1px solid #5274D9;
+  color:#5274D9;
+  font-size:0.8vw;
+  text-transform: uppercase;
+  border-radius: 20vw;
+  margin:4vh 1vw;
+  height: 7vh;
+  width: 15vw;
+  background: none;
+}
+
+.button-about:hover{
+  background-color:#5274D9;
+  color:white;
+}
+
+.about-img{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+  width: 40vw;
+  height: 100%;
+}
+.img-pet{
+  width: 20vw;
+}
