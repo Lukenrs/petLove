@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/petLove/static/css/main.8152bb0e.css",
-    "main.js": "/petLove/static/js/main.005a092a.js",
+    "main.css": "/petLove/static/css/main.d7ac7f19.css",
+    "main.js": "/petLove/static/js/main.00e2d885.js",
     "static/js/787.b27dd024.chunk.js": "/petLove/static/js/787.b27dd024.chunk.js",
     "static/media/thor.jpg": "/petLove/static/media/thor.a47d99a86c04bbd5e570.jpg",
     "static/media/pets.png": "/petLove/static/media/pets.23741fc9c8bd7cea7449.png",
     "static/media/dogs.png": "/petLove/static/media/dogs.d2c7f72893c5d1a27bdd.png",
     "static/media/catss.png": "/petLove/static/media/catss.048b405d8a12e1832384.png",
     "index.html": "/petLove/index.html",
-    "main.8152bb0e.css.map": "/petLove/static/css/main.8152bb0e.css.map",
-    "main.005a092a.js.map": "/petLove/static/js/main.005a092a.js.map",
+    "main.d7ac7f19.css.map": "/petLove/static/css/main.d7ac7f19.css.map",
+    "main.00e2d885.js.map": "/petLove/static/js/main.00e2d885.js.map",
     "787.b27dd024.chunk.js.map": "/petLove/static/js/787.b27dd024.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8152bb0e.css",
-    "static/js/main.005a092a.js"
+    "static/css/main.d7ac7f19.css",
+    "static/js/main.00e2d885.js"
   ]
 }
