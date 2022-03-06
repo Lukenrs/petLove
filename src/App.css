@@ -39,7 +39,7 @@ html{
 }
 
 .nav-list li{
-  font-size:1.5vw;
+  font-size:1.3vw;
   text-transform: uppercase;
 }
 .nav-list li a{
@@ -103,15 +103,183 @@ html{
 .button-about:hover{
   background-color:#5274D9;
   color:white;
+  cursor: pointer;
 }
 
 .about-img{
- display: flex;
- align-items: center;
- justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 40vw;
   height: 100%;
 }
 .img-pet{
   width: 20vw;
+}
+
+.pet-dog{
+  height: 30vh;
+  width: 100%;
+  background-color: #485DD9;
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+
+}
+
+.pet-cat{
+  height: 30vh;
+  width: 100%;
+  background-color:#5274D9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pet-content{
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+}
+.dog-img{
+  width: 15vw;
+}
+.cat-img{
+  width: 25vw;
+}
+
+.button-pets{
+  display: flex;
+  background-color: red;
+  justify-content: center;
+  width: 50%;
+  height: 100%;
+  align-items: center;
+}
+.button-pet{
+  background: none;
+  font-size:1vw;
+  border:1px solid white;
+  border-radius: 20vw;
+  color:white;
+  width: 15vw;
+  height: 9vh;
+}
+.button-pet:hover{
+  background-color: white;
+  color:#5274D9;
+  cursor: pointer;
+}
+
+.meet{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.meet-content{
+  width: 90%;
+  height: 85%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.meet-title{
+  color:#5274D9;
+  align-self: center;
+  margin-bottom: 2.5vh;
+  font-size:2.2vw;
+  text-align: justify;
+  text-transform: uppercase;
+}
+.map{
+  border:0;
+  width: 50vw;
+  height: 70vh;
+}
+
+footer{
+  background-color:#5274D9;
+  width: 100%;
+  height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:white;
+
+}
+
+
+.pet-map-content{
+  width: 90%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.pet-card{
+  border:1px solid #5274D9;
+  background-color: white;
+  border-radius:10%;
+  padding-top:2vh;
+  margin-top:5vh;
+  margin-bottom: 5vh;
+  width: 20vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 50vh;
+  color:#5274D9;
+
+}
+.about-pet{
+  margin-top:3vh;
+  width: 80%;
+  height: 15%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+.photo-map{
+  width: 8vw;
+  height: 18vh;
+}
+.photo-map img{
+  width: 100%;
+  height: 100%;
+  border-radius:50%; 
+  
+}
+
+.pet-map{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pet-name{
+  font-size: 1.7vw;
+}
+.pet-age{
+  font-size: 1vw;
+}
+.button-adot{
+  margin-top:2vh;
+  background: none;
+  border: 1px solid #5274D9;
+  border-radius:3vw; 
+  color:#5274D9;
+  width: 10vw;
+  height: 7vh;
+}
+.button-adot:hover{
+  background-color:#5274D9;
+  color:white;
+  cursor: pointer;
 }
