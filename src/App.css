@@ -42,10 +42,14 @@ html{
   font-size:1.3vw;
   text-transform: uppercase;
 }
+.nav-list li a:hover{
+ border-bottom: 1px solid #5274D9;
+}
 .nav-list li a{
   text-decoration: none;
   color:#5274D9;
 }
+
 
 .about{
   width: 100%;
