@@ -1,19 +1,31 @@
 {
   "files": {
-    "main.css": "/petLove/static/css/main.d7ac7f19.css",
-    "main.js": "/petLove/static/js/main.00e2d885.js",
+    "main.css": "/petLove/static/css/main.256dbe74.css",
+    "main.js": "/petLove/static/js/main.39cc5be1.js",
     "static/js/787.b27dd024.chunk.js": "/petLove/static/js/787.b27dd024.chunk.js",
     "static/media/thor.jpg": "/petLove/static/media/thor.a47d99a86c04bbd5e570.jpg",
+    "static/media/spark.jpg": "/petLove/static/media/spark.63c7ba684be77b6932ad.jpg",
+    "static/media/fuji.png": "/petLove/static/media/fuji.4fd3d1b61ab0cda44b71.png",
+    "static/media/cRiquinho.png": "/petLove/static/media/cRiquinho.4119f80a94e7a6b85513.png",
     "static/media/pets.png": "/petLove/static/media/pets.23741fc9c8bd7cea7449.png",
+    "static/media/mesclado.jpg": "/petLove/static/media/mesclado.853769f4821b4b76d1e1.jpg",
     "static/media/dogs.png": "/petLove/static/media/dogs.d2c7f72893c5d1a27bdd.png",
+    "static/media/Nanda.jpg": "/petLove/static/media/Nanda.d7de30198d744c5e2f83.jpg",
     "static/media/catss.png": "/petLove/static/media/catss.048b405d8a12e1832384.png",
+    "static/media/cGarfield.jpg": "/petLove/static/media/cGarfield.2efe213019b99ab5aa6b.jpg",
+    "static/media/cFabio.jpg": "/petLove/static/media/cFabio.9da1f3b51e3bfaad9f33.jpg",
+    "static/media/Dinda.jpg": "/petLove/static/media/Dinda.fb7095a7dc7628f9b92c.jpg",
+    "static/media/Nenê.jpeg": "/petLove/static/media/Nenê.93a897330e078294379b.jpeg",
+    "static/media/Ster.jpg": "/petLove/static/media/Ster.dafeffe10a23a0cc8704.jpg",
+    "static/media/cMaria.png": "/petLove/static/media/cMaria.959b1242720856841940.png",
+    "static/media/cNando.jpg": "/petLove/static/media/cNando.75d7e4fe6ed544823964.jpg",
     "index.html": "/petLove/index.html",
-    "main.d7ac7f19.css.map": "/petLove/static/css/main.d7ac7f19.css.map",
-    "main.00e2d885.js.map": "/petLove/static/js/main.00e2d885.js.map",
+    "main.256dbe74.css.map": "/petLove/static/css/main.256dbe74.css.map",
+    "main.39cc5be1.js.map": "/petLove/static/js/main.39cc5be1.js.map",
     "787.b27dd024.chunk.js.map": "/petLove/static/js/787.b27dd024.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7ac7f19.css",
-    "static/js/main.00e2d885.js"
+    "static/css/main.256dbe74.css",
+    "static/js/main.39cc5be1.js"
   ]
 }
